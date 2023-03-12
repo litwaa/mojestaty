@@ -1,0 +1,32 @@
+body{
+background-color: black;
+color:white;
+}
+h3.b{
+font-family: arial;
+color: white;
+font-decoration: strong;
+text-align: center;
+}
+h3.c{
+color:red;
+text-align: center;
+}
+h5.a{
+text-align: center;
+}
+h4.c{
+text-align: center;
+color: gold;
+}
+h4.b{
+text-align: center;
+}
+h1.a{
+text-align: center;
+color:gold;
+}
+h2.d{
+color:blue;
+text-align: center;
+}
